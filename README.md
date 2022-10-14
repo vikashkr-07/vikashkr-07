@@ -3,7 +3,7 @@
 
 - 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at Frontier.
 - 🌱 I’m currently exploring web3 and blockchain
-- 👯 I’m looking to collaborate on frontend development
+- 👬 I’m looking to collaborate on frontend development
 - ⚡ Fun fact: I love travelling.
 ​
 - 📫 How to reach me:   <a href="https://www.linkedin.com/in/vikash-kumar-828633191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_vikashkr)
@@ -17,3 +17,6 @@ or give some ♥ on [mail](mailto:vikash810917@gmail.com)
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cryptologos.cc/logos/uniswap-uni-logo.svg?v=023" style="padding-right:10px;" />
+
+
